@@ -54,6 +54,6 @@ Recorded steps for project below:
 4. Modeling and Predictions - Status: In-progress
                     / Collaborator: tbd
 
-5. Graphing and Presnation - Status: In-progress
+5. Graphing and Presentation - Status: In-progress
                     / Collaborator: tbd
 
